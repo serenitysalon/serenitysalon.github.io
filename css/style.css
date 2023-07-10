@@ -539,12 +539,12 @@ footer ul li+li {
 }
 
 .socials a+a {
-    background-color: #f8f8f8;
+    background-color: #655c99;
 }
 
 .socials a {
     float: left;
-    background-color: #f8f8f8;
+    background-color: #bb95c6;
     display: block;
     width: 56px;
     text-align: center;
