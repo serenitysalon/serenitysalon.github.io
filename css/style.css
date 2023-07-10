@@ -134,6 +134,7 @@ a {
 	transition: 0.5s ease;
 	-o-transition: 0.5s ease;
 	-webkit-transition: 0.5s ease;
+    font-family: 'Open Sans', sans-serif;
 }
 
 a:hover {
@@ -226,7 +227,7 @@ header {
     border-top: 4px solid #17063c;
 	display: block;
     overflow: hidden;
-    padding: 91px 0 52px;
+    padding: 25px 0 33px;
     position: relative;
 
 }
@@ -236,7 +237,7 @@ header h1 {
 	position: relative;
     text-align: center;
     z-index: 999;
-    margin-bottom: 84px;
+    margin-bottom: 38px;
 }
 
 
@@ -244,8 +245,8 @@ header h1 {
 header h1 a {
 	display: inline-block;
 	overflow: hidden;
-	width: 114px;
-    height: 130px;
+	width: 175px;
+    height: 175px;
 	font-size: 0;
 	line-height: 0;
 	text-indent: -999px;
@@ -424,7 +425,7 @@ header h1 a img {
     line-height: 26px;
     margin-right: 16px;
     overflow: hidden;
-    background: url(../images/price_bg.png) 0 bottom repeat-x;
+    /* background: url(../images/price_bg.png) 0 bottom repeat-x; */
 }
 
 ul.list.l1 li+li {
